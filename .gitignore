@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.log
+.env
+db.properties
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+bin/
+hotel_management_backup.sql
